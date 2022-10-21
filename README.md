@@ -215,6 +215,7 @@ logger = pf.TensorBoardLogger(log_directory) # create logger instance
 pinn.fit(epochs=5000,logger=logger) # add logger to the fit method
 ```
  
+ test please ignore
 
 
 ## Developers
